@@ -1,0 +1,20 @@
+{
+  "name": "ngmap-formly",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "m.rodriguez.tena",
+  "contributors": [],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "requirejs": "^2.2.0"
+  },
+  "devDependencies": {
+    "gulp-concat": "^2.6.1"
+  }
+}
