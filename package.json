@@ -12,10 +12,9 @@
   "contributors": [],
   "dependencies": {
     "angular": "^1.5.5",
-    "requirejs": "^2.2.0"
+    "angular-formly": "^8.4.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.1"
+    "gulp": "^3.9.1"
   }
 }
